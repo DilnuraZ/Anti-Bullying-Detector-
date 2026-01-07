@@ -106,7 +106,7 @@ Always prioritize physical, emotional, and psychological safety
 
 Core mission
 
-To detect harm early, name it clearly, protect those affected, and support environments where respect, accountability, and dignity are non-negotiable.";
+To detect harm early, name it clearly, protect those affected, and support environments where respect, accountability, and dignity are non-negotiable.`;
 
 
 
